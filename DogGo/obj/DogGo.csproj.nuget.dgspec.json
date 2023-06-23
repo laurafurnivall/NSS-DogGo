@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\laura\\source\\repos\\DogGo\\DogGo\\DogGo.csproj": {}
+    "C:\\Users\\laura\\workspace\\DogGo\\NSS-DogGo\\DogGo\\DogGo.csproj": {}
   },
   "projects": {
-    "C:\\Users\\laura\\source\\repos\\DogGo\\DogGo\\DogGo.csproj": {
+    "C:\\Users\\laura\\workspace\\DogGo\\NSS-DogGo\\DogGo\\DogGo.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\laura\\source\\repos\\DogGo\\DogGo\\DogGo.csproj",
+        "projectUniqueName": "C:\\Users\\laura\\workspace\\DogGo\\NSS-DogGo\\DogGo\\DogGo.csproj",
         "projectName": "DogGo",
-        "projectPath": "C:\\Users\\laura\\source\\repos\\DogGo\\DogGo\\DogGo.csproj",
+        "projectPath": "C:\\Users\\laura\\workspace\\DogGo\\NSS-DogGo\\DogGo\\DogGo.csproj",
         "packagesPath": "C:\\Users\\laura\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\laura\\source\\repos\\DogGo\\DogGo\\obj\\",
+        "outputPath": "C:\\Users\\laura\\workspace\\DogGo\\NSS-DogGo\\DogGo\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\laura\\AppData\\Roaming\\NuGet\\NuGet.Config",

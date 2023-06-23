@@ -1,7 +1,11 @@
 {
   "ExpandedNodes": [
     "",
-    "\\DogGo"
+    "\\DogGo",
+    "\\DogGo\\Controllers",
+    "\\DogGo\\Models",
+    "\\DogGo\\Properties",
+    "\\DogGo\\Repositories"
   ],
   "SelectedNode": "\\DogGo.sln",
   "PreviewInSolutionExplorer": false
